@@ -1,12 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0DF700&width=435&lines=ʜᴇʏ+ɢᴜʏꜱ++%F0%9F%91%8B;ɪ+ᴀᴍ+ᴀʙʜɪ+ʏᴀᴅᴀᴠ" alt="Typing SVG" /></a>
-<p align="center"><img src="https://user-images.githubusercontent.com/46929618/150071352-0321e505-255d-4034-b884-fb166cc7e488.gif" alt="Bt">
-  
+
 
   
-<p align="center"><a href="https://github.com/h4ck3r0"><img title="H4Ck3R" src="https://github-readme-stats-q2ta.vercel.app/api?username=h4ck3r0&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/Yadav755"><img title="ᴀʙʜɪ" src="https://github-readme-stats-q2ta.vercel.app/api?username=Yadav755&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 <p align="center">
-<a href="https://github.com/h4ck3ro"><img title="YouTube" src="https://img.shields.io/badge/Github-H4Ck3R-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/c/h4ck3r0"><img title="YouTube" src="https://img.shields.io/badge/YouTube-H4Ck3R-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/Yadav755"><img title="YouTube" src="https://img.shields.io/badge/Github-H4Ck3R-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/@Abhi_tricker"><img title="YouTube" src="https://img.shields.io/badge/YouTube-H4Ck3R-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/h4ck3r0/Apktool-termux"><img title="Apktool-termux" src="https://github-readme-stats-q2ta.vercel.app/api/pin/?username=h4ck3r0&repo=Apktool-termux&theme=radical"></a>
