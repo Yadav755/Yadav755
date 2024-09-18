@@ -15,4 +15,4 @@
 <p align="center">
 <a href="https://github.com/Yadav755"><img title="h4ck3r" src="https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=h4ck3r0&layout=compact&theme=tokyonight&cache_seconds=3200"></a>
 </p>
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ᴀʙʜɪ&theme=chartreuse-dark&cache_seconds=3200" alt="ᴀʙʜɪ" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=H4Ck3R&theme=chartreuse-dark&cache_seconds=3200" alt="ᴀʙʜɪ" /></p>
